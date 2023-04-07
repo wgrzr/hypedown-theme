@@ -1,20 +1,37 @@
 {
-  "name": "hyped-down-theme",
-  "displayName": "Hyped Down Theme",
-  "description": "Hyped down dark theme, fixed up and slightly darker",
-  "version": "0.0.1",
+  "name": "hypedown-theme",
+  "displayName": "hypedown theme",
+  "description": "a dark theme, inspired by Mountaineer.vim colorscheme",
+  "version": "1.0.0",
   "engines": {
     "vscode": "^1.77.0"
   },
   "categories": [
     "Themes"
   ],
+  "keywords": [
+    "themes",
+    "dark",
+    "hype",
+    "down",
+    "mountaineer",
+    "vim",
+    "colorscheme",
+    "syntax",
+    "jsx",
+    "tsx",
+    "theme",
+    "black",
+    "grey",
+    "lime green",
+    "hypedown"
+  ],
   "contributes": {
     "themes": [
       {
-        "label": "Hype Down",
+        "label": "Hypedown",
         "uiTheme": "vs-dark",
-        "path": "./themes/hyped-down.json"
+        "path": "./themes/hypedown.json"
       }
     ]
   }
