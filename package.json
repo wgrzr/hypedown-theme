@@ -1,0 +1,21 @@
+{
+  "name": "hyped-down-theme",
+  "displayName": "Hyped Down Theme",
+  "description": "Hyped down dark theme, fixed up and slightly darker",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.77.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Hype Down",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Hype Down-color-theme.json"
+      }
+    ]
+  }
+}
