@@ -6,6 +6,11 @@
   "engines": {
     "vscode": "^1.77.0"
   },
+  "publisher": "voidfaithnull",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/wgrzr/hypedown-theme"
+  },
   "categories": [
     "Themes"
   ],
