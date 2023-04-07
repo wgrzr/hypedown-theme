@@ -14,7 +14,7 @@
       {
         "label": "Hype Down",
         "uiTheme": "vs-dark",
-        "path": "./themes/Hype Down-color-theme.json"
+        "path": "./themes/hyped-down.json"
       }
     ]
   }
